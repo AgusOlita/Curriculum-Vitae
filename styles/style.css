@@ -20,6 +20,9 @@ header {
 header img {
     width: 15%;
     height: auto;
+    border-radius: 50%;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 
 div{
@@ -34,7 +37,7 @@ h1{
     font-family: 'Bitter-Black';
     font-size: 35px;
     font-weight: 100px;     
-    letter-spacing: 10px;
+    letter-spacing: 5px;
     padding: 10px;
     vertical-align: middle;
     word-spacing: 15px;
